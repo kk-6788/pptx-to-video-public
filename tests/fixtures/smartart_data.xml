@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dgm:dataModel xmlns:dgm="http://schemas.openxmlformats.org/drawingml/2006/diagram"
+               xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+  <dgm:ptLst>
+    <dgm:pt modelId="0" type="doc"><dgm:prSet/></dgm:pt>
+    <dgm:pt modelId="1">
+      <dgm:prSet/>
+      <dgm:t><a:bodyPr/><a:lstStyle/><a:p><a:r><a:t>Research</a:t></a:r></a:p></dgm:t>
+    </dgm:pt>
+    <dgm:pt modelId="2">
+      <dgm:prSet/>
+      <dgm:t><a:bodyPr/><a:lstStyle/><a:p><a:r><a:t>Build </a:t></a:r><a:r><a:t>prototype</a:t></a:r></a:p></dgm:t>
+    </dgm:pt>
+    <dgm:pt modelId="3">
+      <dgm:prSet/>
+      <dgm:t><a:bodyPr/><a:lstStyle/><a:p><a:r><a:t>Launch</a:t></a:r></a:p></dgm:t>
+    </dgm:pt>
+  </dgm:ptLst>
+  <dgm:cxnLst/>
+</dgm:dataModel>

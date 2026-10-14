@@ -1,0 +1,4 @@
+interface:
+  display_name: "UI 参考库 · 三站精选"
+  short_description: "参考 Uiverse、React Bits 与 Aceternity，适配网页和桌面 UI"
+  default_prompt: "使用 $ui-reference-library 为当前应用选择合适的 UI 参考并完成界面改造，保留现有技术栈及来源记录。"

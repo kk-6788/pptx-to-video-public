@@ -1,0 +1,29 @@
+{
+  "project": "填写项目名称",
+  "checked_at": "YYYY-MM-DD",
+  "stack": "填写现有技术栈",
+  "references": [
+    {
+      "site": "Uiverse / React Bits / Aceternity UI",
+      "component": "填写实际查看的组件名称",
+      "author": "填写已核验作者，无法确认则注明",
+      "component_url": "https://example.com/component",
+      "source_url": null,
+      "repository_url": null,
+      "official_evidence_url": null,
+      "revision": null,
+      "commit_sha": null,
+      "license_name": "填写具体资源许可；未核验则不能复制代码",
+      "license_url": null,
+      "license_file": null,
+      "mode": "visual-reference / source-reuse / independent-implementation",
+      "decision": "selected / rejected",
+      "reason": "填写采用或未采用原因以及目标控件",
+      "local_files": [],
+      "sha256": {},
+      "modifications": "填写变化；未复制源码时明确记录",
+      "accessibility": "记录键盘焦点、对比和减弱动效策略",
+      "verification": "记录实际运行、截图或未完成的视觉核验"
+    }
+  ]
+}
