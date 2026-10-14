@@ -1,0 +1,23 @@
+{
+  "skill_name": "ui-reference-library",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "这个 tkinter 视频转换 EXE 有浅色、暖色、深色三种主题，请参考你保存的三个 UI 网站，让界面更高级，保留离线可用和现有功能。",
+      "expected_output": "先查看现有 UI 与实际参考组件；保留 tkinter，形成协调的主题和原生控件视觉方案并实现；提供源码参考记录和新版 EXE 运行证据。",
+      "assertions": ["没有为了参考 React 迁移技术栈", "三种主题均有实际检查", "不将网页截图当交互实现", "装饰不遮挡文字，动效有静态可用状态", "来源记录区分独立实现与复制代码"]
+    },
+    {
+      "id": 2,
+      "prompt": "给现有 React 项目加入 React Bits Spotlight Card。到 GitHub 确认官方资源，只下载需要的源码和依赖声明，固定版本并保存来源和许可，先不要运行安装命令。",
+      "expected_output": "通过官网或官方资料确认仓库，核对具体版本及 MIT + Commons Clause；把分支解析为完整 commit SHA，下载必要文件到项目子目录并保留同版本完整许可、URL 和文件 SHA256；阅读代码后说明相容性，不运行 npm/npx。",
+      "assertions": ["不声称纯 MIT", "仅下载必要公开文件", "有官网到仓库的所属核验证据", "分清 commit SHA 与文件 SHA256", "每个文件有可核验来源和 SHA256", "不执行下载代码或安装器", "不将组件作为可再分发 skill 素材库"]
+    },
+    {
+      "id": 3,
+      "prompt": "我没有购买任何 UI 库。请参考 Aceternity 的付费模板和 React Bits Pro 的公开演示，给本地应用做一个免费的近似风格界面，把可复用经验留在 skill。",
+      "expected_output": "区分免费库、付费预览与具体许可，不提取付费底层源码或复制 Pro Agent Kit；以通用视觉原则独立实现或采用许可明确的免费组件，保留取舍和验证记录。",
+      "assertions": ["不绕过登录或付费", "不批量镜像源码", "不把整个 Aceternity 认定为 MIT", "不将付费源码或 Agent Kit 打包入 skill", "继续完成许可明确的替代方案"]
+    }
+  ]
+}

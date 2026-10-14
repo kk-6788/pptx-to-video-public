@@ -1,0 +1,20 @@
+{
+  "downloaded_at": "2026-09-08T03:27:29.679906+00:00",
+  "source_page": "https://github.com/DavidHDev/react-bits",
+  "requested_url": "https://raw.githubusercontent.com/DavidHDev/react-bits/main/LICENSE.md",
+  "resolved_url": "https://raw.githubusercontent.com/DavidHDev/react-bits/main/LICENSE.md",
+  "file": "react-bits-LICENSE.md",
+  "bytes": 1303,
+  "sha256": "f4c33af6739191537738662d223b68d77bc226f4b57ea883e16481d8cc5c73c9",
+  "purpose": "reference",
+  "kind": "license",
+  "license": {
+    "name": "MIT + Commons Clause License Condition v1.0",
+    "requested_url": "https://raw.githubusercontent.com/DavidHDev/react-bits/main/LICENSE.md",
+    "resolved_url": "https://raw.githubusercontent.com/DavidHDev/react-bits/main/LICENSE.md",
+    "file": "react-bits-LICENSE.md",
+    "sha256": "f4c33af6739191537738662d223b68d77bc226f4b57ea883e16481d8cc5c73c9"
+  },
+  "execution": "none",
+  "review_note": "Download records provenance only; intended use and license must be reviewed by the caller."
+}

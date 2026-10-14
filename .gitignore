@@ -1,0 +1,23 @@
+# Local secrets
+.env
+
+# Python caches and local runtimes
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.runtime-deps/
+.firecrawl/
+
+# Generated videos, reports, and build output
+work/
+temp/
+artifacts/
+build/
+dist/
+out.mp4
+out.srt
+out.content.json
+PPT转视频工具-v*-分享包.zip
+
+# Per-user interface settings
+ui_preferences.json

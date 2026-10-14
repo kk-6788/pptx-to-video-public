@@ -1,0 +1,32 @@
+{
+  "downloaded_at": "2026-09-08T03:32:58.814753+00:00",
+  "source_page": "https://lucide.dev/icons/presentation",
+  "requested_url": "https://raw.githubusercontent.com/lucide-icons/lucide/a537cb6eb323b885f4c60baf3cec1a995982d167/icons/presentation.svg",
+  "resolved_url": "https://raw.githubusercontent.com/lucide-icons/lucide/a537cb6eb323b885f4c60baf3cec1a995982d167/icons/presentation.svg",
+  "github": {
+    "repository": "https://github.com/lucide-icons/lucide",
+    "revision": "a537cb6eb323b885f4c60baf3cec1a995982d167",
+    "commit_sha": "a537cb6eb323b885f4c60baf3cec1a995982d167",
+    "path": "icons/presentation.svg"
+  },
+  "file": "presentation.svg",
+  "bytes": 316,
+  "sha256": "5d15abfdfca21e40abe3b8daead5e8f6a7d38e623fb1a4dd8890448c79e75342",
+  "purpose": "reference",
+  "kind": "source",
+  "license": {
+    "name": "ISC; includes MIT notice for Feather-derived icons",
+    "requested_url": "https://raw.githubusercontent.com/lucide-icons/lucide/a537cb6eb323b885f4c60baf3cec1a995982d167/LICENSE",
+    "resolved_url": "https://raw.githubusercontent.com/lucide-icons/lucide/a537cb6eb323b885f4c60baf3cec1a995982d167/LICENSE",
+    "github": {
+      "repository": "https://github.com/lucide-icons/lucide",
+      "revision": "a537cb6eb323b885f4c60baf3cec1a995982d167",
+      "commit_sha": "a537cb6eb323b885f4c60baf3cec1a995982d167",
+      "path": "LICENSE"
+    },
+    "file": "presentation.svg.LICENSE.txt",
+    "sha256": "b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57"
+  },
+  "execution": "none",
+  "review_note": "Download records provenance only; intended use and license must be reviewed by the caller."
+}
